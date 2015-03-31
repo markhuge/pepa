@@ -1,0 +1,25 @@
+{
+  "name": "pepa",
+  "version": "0.0.0",
+  "description": "A composable suite of tools to help you p-push it real good",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/markhuge/pepa.git"
+  },
+  "keywords": [
+    "push",
+    "notifications",
+    "message",
+    "broker"
+  ],
+  "author": "Mark Wilkerson <mark@segfawlt.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhuge/pepa/issues"
+  },
+  "homepage": "https://github.com/markhuge/pepa"
+}
